@@ -38,3 +38,6 @@ git merge [remote branch URL]
 
 # show difference between branches
 git diff branchB...branchA
+
+# transmit local branch commit to the remote repository
+git push
