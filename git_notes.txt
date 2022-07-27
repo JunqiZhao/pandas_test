@@ -29,3 +29,6 @@ git checkout [branchname]
 
 # show all commits in the currnet repository
 git log
+
+# merge specific branch to current one
+git merge [branch name]
