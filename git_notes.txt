@@ -32,3 +32,6 @@ git log
 
 # merge specific branch to current one
 git merge [branch name]
+
+# show difference between branches
+git diff branchB...branchA
