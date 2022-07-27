@@ -30,8 +30,11 @@ git checkout [branchname]
 # show all commits in the currnet repository
 git log
 
-# merge specific branch to current one
+# merge specific branch to current one (local)
 git merge [branch name]
+
+# merge specific branch to current one (remote)
+git merge [remote branch URL]
 
 # show difference between branches
 git diff branchB...branchA
