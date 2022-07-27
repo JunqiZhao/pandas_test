@@ -27,4 +27,5 @@ git branch [branch name]
 # switch to another branch
 git checkout [branchname]
 
-#
+# show all commits in the currnet repository
+git log
