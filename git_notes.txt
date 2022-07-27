@@ -1,0 +1,30 @@
+Some notes about git.
+
+# initialize a git repository
+git init
+
+# clone a remote reposity
+git clone [url]
+
+# show all the modified files in the current repository
+git status
+
+# add a file as it looks to the next commit
+git add [file]
+
+# add all files in current repository as they look into the next commit
+git add .
+
+# commit the staged content as new commit snapshot
+git commit -m "comments"
+
+# list all the branches
+git branch
+
+# create new branch
+git branch [branch name]
+
+# switch to another branch
+git checkout [branchname]
+
+#
